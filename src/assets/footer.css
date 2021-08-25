@@ -1,0 +1,19 @@
+.footer {
+    /* padding: 10rem 2rem; */
+    background-color: #07281d;
+}
+.footer div {
+    padding-right: 2em;
+}
+.footer h3 {
+    color: #11dd99;
+}
+
+.footer p {
+    color: gray;
+}
+
+.footer a:hover {
+    color: #11dd99;
+    transition: 200ms ease all;
+}

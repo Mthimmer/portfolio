@@ -1,0 +1,76 @@
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0px;
+  font-size: 2.5em;
+  color: #020203;
+  padding-bottom: 0.5em;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 2.5em;
+  color: #fff;
+  
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  /* font-size: 1em; */
+  line-height: 2.6;
+  letter-spacing: 3px;
+  color: rgb(63, 63, 63);
+  font-size: 14px;
+}
+
+.footer p {
+  font-weight: 400;
+  line-height: 2;
+  padding-bottom: 1em;
+
+}
+
+h3 {
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 700;
+  font-size: 0.8em;
+  letter-spacing: 4px;
+  padding-bottom: 2em;
+}
+
+h4 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  font-size: 0.7em;
+  letter-spacing: 4px;
+  padding-bottom: 1em;
+  color: #fff;
+}
+
+.topnav .desktop-menu a {
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 700;
+  font-size: 0.8em;
+  letter-spacing: 4px;
+  color: #07281d;
+}
+
+.bg-image {
+  padding-right: 15%;
+  padding-top: 3%;
+  z-index: -5;
+  opacity: 70%;
+}
+
+.detail img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.detail .relative {
+  height: 30rem;
+}
+

@@ -1,0 +1,9 @@
+.example img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.about img {
+  height: 100%;
+  object-fit: cover;
+}

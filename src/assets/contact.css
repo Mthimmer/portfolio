@@ -1,0 +1,8 @@
+.alinea-contact {
+    max-width: 800px;
+}
+
+.alinea-contact a:hover {
+    color: #11dd99;
+    transition: 200ms ease all;
+}
