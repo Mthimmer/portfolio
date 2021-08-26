@@ -87,7 +87,7 @@ function Detail(props) {
                     </div>
                 </div>
 
-                <div className="grid grid-cols-1 lg:grid-cols-2 pb-20 pt-20 relative lg:max-h-screen">
+                <div className="grid grid-cols-1 lg:grid-cols-2 pb-20 pt-20 lg:relative lg:max-h-screen">
                     <div className="px-5">
                         <h1>{info.thirdTitle}</h1>
                     </div>
