@@ -38,7 +38,7 @@
   left: 0;
   bottom: 0;
   background: linear-gradient(90deg, rgb(100, 99, 124,0.9) 0%, rgba(17,221,153,0.9) 0%, rgba(29,153,115,0.9) 100%);
-  opacity: 1;
+  opacity: 100%;
   justify-content: center;
   transition: 500ms ease all;
   text-align: center;
