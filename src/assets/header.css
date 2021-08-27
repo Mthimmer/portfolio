@@ -48,12 +48,6 @@
 }
 
 
-.hamburger span:hover {
-  color: #11dd99;
-  transition: 200ms ease all;
-  
-}
-
 .mobile-menu a {
   color: white;
   font-family: 'Poppins', sans-serif;
