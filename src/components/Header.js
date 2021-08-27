@@ -10,26 +10,6 @@ function Header() {
   const [showMenu, setShowMenu] = useState(false)
 
 
-  let menu
-
-
-  if (showMenu) {
-    menu = <div>
-      <ul className="mobile-menu">
-        <li>
-          <Link className="" to="/" onClick={() => setShowMenu(false)}>projecten</Link>
-        </li>
-        <li>
-          <Link to="/about" onClick={() => setShowMenu(false)}>geschiedenis</Link>
-        </li>
-        <li>
-          <Link className="" to="/contact" onClick={() => setShowMenu(false)}>contact</Link>
-        </li>
-      </ul>
-    </div>
-
-  }
-
   return (
 
     <div className="lg:container py-5 px-5 mx-auto">
@@ -63,8 +43,21 @@ function Header() {
                 onClick={() => setShowMenu(!showMenu)}
               />
             </span>
-
-            {menu}
+            {showMenu && (
+              <div>
+                <ul className="mobile-menu">
+                  <li>
+                    <Link className="" to="/" onClick={() => setShowMenu(false)}>projecten</Link>
+                  </li>
+                  <li>
+                    <Link to="/about" onClick={() => setShowMenu(false)}>geschiedenis</Link>
+                  </li>
+                  <li>
+                    <Link className="" to="/contact" onClick={() => setShowMenu(false)}>contact</Link>
+                  </li>
+                </ul>
+              </div>
+            )}
 
           </div>
         </div>
