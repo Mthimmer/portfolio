@@ -47,23 +47,11 @@
  
 }
 
-.mobile-menu a:hover {
-  color: #07281d;
-  transition: 500ms ease all;
-}
 
 .hamburger span:hover {
   color: #11dd99;
   transition: 200ms ease all;
   
-}
-
-.inactive {
-  color: #07281d;
-}
-
-.active {
-  color: white;
 }
 
 .mobile-menu a {
