@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import '../assets/header.css';
 import { Link } from "react-router-dom";
-import logo from "../assets/images/logo-zwart.svg"
+import logo from "../assets/images/logo-maikimmers.svg"
 import icon from "../assets/images/icon-licht2.svg"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
