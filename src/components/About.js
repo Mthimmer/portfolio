@@ -45,7 +45,7 @@ export default class About extends Component {
                             <h1>Waar heb ik ervaring mee?</h1>
                             <p>Ik heb mij de afgelopen jaren bezig gehouden met een aantal programma's en programmeertalen.
                                 Tijdens mijn opleiding heb ik naast de creatieve vakken ook gekozen voor de minor Online Marketing. Dit met de gedachtte om mijn design in de toekomst te verbeteren met kennis van de Minor.
-                                Daarnaast was het opdoen van marketing-modellen en vakjargon een bijkomst om om beter samen te kunnen werken met een marketing afdeling.
+                                Daarnaast was het opdoen van marketing-modellen en het vakjargon een bijkomstigheid om beter samen te kunnen werken met een marketing afdeling.
                             </p>
                             <div className="pt-5 grid grid-cols-1 sm:grid-cols-2">
                                 <div className="pl-4 mt-10">
