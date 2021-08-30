@@ -64,7 +64,7 @@ function Home() {
                     <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 ">
                         <div className="p-5 sm:p-5 md:py-10 lg:py-20">
                             <h1>Digitaal designen</h1>
-                            <p>Mijn interesses liggen voornamelijk op het creëren van logo’s, huisstijlen en webdesign.
+                            <p>Mijn interesse ligt voornamelijk op het creëren van logo’s, huisstijlen en webdesign.
                                 Echter ben ik niet vies van coderen en heb ik mij verdiept in React.js om mijn portfolio op te bouwen.
                                 Ik vind het erg interessant om met verschillende experimenten bezig te zijn en mij verder te ontwikkelen.
                                 Zo heb ik nog de ambitie om meer te leren van DTP, UX/UI en programmeren. </p>
