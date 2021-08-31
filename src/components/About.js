@@ -24,7 +24,7 @@ export default class About extends Component {
                         <p>Het beeldmerk is ontstaan in de tijd dat ik begon te werken met Photoshop en Cinema 4d.
                             In die periode was ik nog erg bezig met mijn andere hobby, gamen.
                             Mijn vrienden plaatsen video's op YouTube en dat groeide uit naar de behoefte aan logo's en achtergronden.
-                            Daar ben ik mij vervolgens in gaan verdiepen, hierdoor kwam ik erachter dat ik veel plezier haal uit digitale creativiteit.
+                            Daar ben ik mij vervolgens in gaan verdiepen. Hierdoor kwam ik erachter dat ik veel plezier haal uit digitale creativiteit.
                         </p>
 
                     </div>

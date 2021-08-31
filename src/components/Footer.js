@@ -16,7 +16,7 @@ function Footer() {
           </div>
           <div className="studies pt-10 sm:pt-0">
             <h3>studies</h3>
-            <h4>Avans s’Hertogenbosch</h4>
+            <h4>Avans 's-Hertogenbosch</h4>
             <p>CMD Communicatie & Multimedia Design</p>
             <h4>SintLucas Eindhoven</h4>
             <p>Interactief Vormgever</p>
