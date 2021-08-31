@@ -12,7 +12,7 @@ export default class Hero extends Component {
                         <img src={hero} alt="logo-zwart"></img>
                     </div>
                     <div className="intro pt-20 p-5 md:p-20 lg:p-40">
-                        <h1>Hé! Ik ben Maik,</h1>
+                        <h1>Hey! Ik ben Maik</h1>
                         <h3>"Een 24-jarige Multimedia Designer uit Boekel"</h3>
                         <p>Voordat ik aan de opleidingen SintLucas Eindhoven en Avans ‘s-Hertogenbosch was begonnen, hield ik mij voornamelijk al bezig met het maken van YouTube logo’s en achtergronden voor vrienden, connecties en zelfs buitenlandse connecties. Dit is hoe ik uiteindelijk in de designbranche terecht ben gekomen. </p>
                     </div>
