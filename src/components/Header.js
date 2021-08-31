@@ -43,7 +43,7 @@ function Header() {
           <img src={icon} alt="icon-licht"></img>
         </div>
 
-        <div className="topnav p-2 sm:p-4">
+        <div className="topnav p-2 md:p-4">
           <ul className="desktop-menu hidden md:flex flex-1 justify-end">
             <li>
               <Link className="" to="/">projecten</Link>
