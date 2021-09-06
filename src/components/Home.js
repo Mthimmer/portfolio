@@ -41,7 +41,7 @@ function Home() {
             <Hero />
 
             <div className="work-grid">
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 pt-20 sm:pt-0">
                     {items.map(project => (
                         <div className="project">
                             <div className="relative case">
