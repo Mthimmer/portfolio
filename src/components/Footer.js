@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className="footer">
       <div className="container mx-auto">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4  sm:p-0 sm:py-20 px-5 py-20">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4  px-5 py-20 sm:p-0 sm:py-40">
           <div className="contact pt-10 sm:pt-0">
             <h3>contact</h3>
             <h4>E-mail</h4>
