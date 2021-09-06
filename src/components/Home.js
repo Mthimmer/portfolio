@@ -40,7 +40,7 @@ function Home() {
         <div>
             <Hero />
 
-            <div className="work-grid pt-20">
+            <div className="work-grid">
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                     {items.map(project => (
                         <div className="project">
