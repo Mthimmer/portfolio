@@ -21,17 +21,11 @@ function Footer() {
             <h4>SintLucas Eindhoven</h4>
             <p>Interactief Vormgever</p>
           </div>
-          <div className="projecten pt-10 sm:pt-0">
-            <h3>projecten</h3>
-            <h4>Featly</h4>
-            <p>Handpicked Agencies</p>
 
-          </div>
           <div className="doelen pt-10 sm:pt-0">
             <h3>leerdoelen</h3>
             <h4>UX/UI</h4>
-            <h4>DTP</h4>
-            <h4>Programmeren</h4>
+            <h4>Frameworks</h4>
           </div>
         </div>
       </div>

@@ -55,11 +55,13 @@ export default class About extends Component {
                                     <h3>Adobe Indesign</h3>
                                     <h3>Cinema 4d text modeling</h3>
                                     <h3>Touchdesigner</h3>
+                                    <h3>Figma</h3>
+                                    <h3>Invision</h3>
                                 </div>
                                 <div className="pl-4 mt-10">
                                     <h3>HTML 5</h3>
                                     <h3>(S)CSS</h3>
-                                    <h3>REACT.js</h3>
+                                    <h3>React.js</h3>
                                     <h3>Tailwind CSS</h3>
                                     <h3>Bootstrap</h3>
                                     <h3>P5.js</h3>
